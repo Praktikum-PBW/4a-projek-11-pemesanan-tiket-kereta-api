@@ -134,15 +134,9 @@ hr {
   color: white;
   background-color: #212a42 !important;
   border: 1px solid #4c4c6d !important;
+  width: 100%;
 }
 
-.card-train-details,
-.card-cs{
-  max-width: 50%;
-  color: white;
-  background-color: #212a42 !important;
-  border: 1px solid #4c4c6d !important;
-}
 
 .text-muted {
   color: #c0c0c0 !important;
